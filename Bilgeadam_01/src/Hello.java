@@ -12,9 +12,9 @@ public class Hello {
 	
 	
 	
-	// This method is our first method
-	// This method is our first method2
-	// This method is our first method3
+	/* This method is our first method
+	 This method is our first method2
+	 This method is our first method3 */
 
 	public static void main(String[] args) {
 

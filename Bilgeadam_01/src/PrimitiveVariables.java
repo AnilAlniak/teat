@@ -10,13 +10,13 @@ public class PrimitiveVariables {
 		
 		short short_num2 = 265;
 		short short_num3 = 145;
-		short result_short = (short) (short_num2 + short_num3);
+		short result_short =  (short) (short_num2 + short_num3);
 		
 		byte byte_num2 = 45;
 		byte byte_num3 = 25;
 		byte result_byte = (byte)(byte_num2 + byte_num3);
 		
-		char char_test = '\u00BE';
+		char char_test = '\u00E6';
 		System.out.println(char_test + "\n");
 		
 		int int_num1 = 15;
